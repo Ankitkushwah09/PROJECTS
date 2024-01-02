@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    /* box-sizing: border-box; */
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 1000px;
+    height: auto;
+    border: 2px solid rgb(127, 121, 121);
+    padding: 15px;
+    display: flex;
+}
+
+.left{
+    width: 30%;
+    /* padding: auto; */
+}
+
+.upper{
+    padding: 10px;
+    background-color: rgb(51, 88, 222);
+    margin: auto;
+    color: beige;
+    text-align: center;
+}
+.upper img{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.git{
+  word-spacing: 10px;
+}
+.lower{
+    padding: 30px 10px 0 30px;
+    background-color: rgb(26, 25, 25);
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+}
+.contact{
+    padding-bottom: 20px;
+}
+
+.lol{
+    color: rgb(85, 84, 84);
+}
+.center{
+    padding-bottom: 30px;
+    line-height: 25px;
+}
+
+
+.dom{
+    padding:20px 0 20px 10px;
+    margin: 10px;
+     
+}
+
+.containe { 
+    background-color: white; 
+    width: 80%; 
+    border-radius: 15px; 
+    margin: 10px 0 10px 0;
+} 
+
+.skill { 
+    background-color: rgb(40, 77, 191); 
+    padding: 2%; 
+    width: 80%;
+    border-radius: 15px; 
+   
+} 
+
+
+.one{
+    width:80%;
+}
+.two{
+    width:70%;  
+}
+.three{
+    width:50%;  
+}
+.four{
+    width:90%;  
+}
+.five{
+    width:30%;  
+}
+
+.tom{
+    padding:20px 0 20px 10px;
+    margin: 10px; 
+    line-height: 25px;
+}
+.right{
+    width: 70%;
+    padding: 10px 40px 0 40px;
+}
+
+.heading{
+    color: blue;
+    font-size:25px ;
+    padding-bottom: 5px;
+}
+
+.paragraph{
+    color: rgb(80, 77, 75);
+    line-height: 1.6;
+    padding: 20px 0 20px 0;
+    word-spacing: 10px;
+}
+
+.hr{
+    height: 2px;
+   background-color: rgb(4, 4, 4);
+}
+
+.dont{
+   display: grid;
+   padding-top: 20px;
+    
+
+}
+
+.role{
+    display: flex;
+}
+
+.icon{
+    padding-right: 10px;
+    font-weight: 100;
+}
+
+.haha{
+    display: flex;
+     font-size: 15px;
+     padding-left: 10px;
+} 
+.from{
+    padding-left: 420px;
+}
+.para{
+    color: rgb(80, 77, 75);
+    padding: 5px 0 10px 0;
+    line-height: 1.3;
+    word-spacing: 10px;
+
+}
+.jo{
+    padding-left: 35px;
+    border: 10px;
+    
+}
